@@ -13,16 +13,16 @@ import pymongo
 
 
 '''
-This bot is developed by @BARROSOE, it is the first version deployed for public scraping,
+This bot is developed by @Cardergunnu, it is the first version deployed for public scraping,
 now it is an obsolete version for my work environment, that's why I post it for free.
 
 
 ---------------Deploy on Heroku
 
 -Secret keys: 
-	-TOKEN: 123:ABC
+	-TOKEN: 5267260608:AAGAE18HIh_pez6xObkoy6jFO71UItpgz-g
 	- MODE: prod
-	- CHAT_ID_FORWARD: -1111
+	- CHAT_ID_FORWARD: 1981863218
 	- HEROKU_APP_NAME: (HEROKU APP NAME)
 '''
 
